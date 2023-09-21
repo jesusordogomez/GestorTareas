@@ -1,7 +1,7 @@
 package Gestor;
 
 import java.util.Date;
-
+//esto es un comentario
 public class Tarea {
     private String nombre;
     private String descripcion;
