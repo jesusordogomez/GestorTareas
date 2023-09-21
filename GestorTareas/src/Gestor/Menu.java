@@ -31,7 +31,7 @@ public class Menu {
                     BorrarTarea.borrarTarea(listaTareas);
                     break;
                 case 4:
-                    ListarTareas.listarTareas(listaTareas);
+                    ListarTarea.listarTareas(listaTareas);
                     break;
                 case 5:
                     System.out.println("Saliendo del programa.");
